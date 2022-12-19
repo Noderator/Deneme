@@ -1,2 +1,2 @@
-# Deneme..
+# Deneme..hanoi soon
 deneme
